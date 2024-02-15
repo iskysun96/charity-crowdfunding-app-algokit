@@ -2,6 +2,8 @@
 
 This starter full stack project has been generated using AlgoKit. See below for default getting started instructions.
 
+!(https://img.shields.io/badge/Accomplishment%20Credential-did:algo:testnet_uuid:e9832489e20640678dc66d96070484f3-76F935?style=plastic&logo=algorand&label=Accomplishment%20Credential&link=https%3A%2F%2Ftest.goplausible.xyz%2Fapi%2Fpage%2Fbafkreig3qa67rx2ckrmgcz4tn23uri5rie5hghgd7earca6qqtrf2lohxq&link=https%3A%2F%2Ftestnet.goplausible.xyz%2Fdid-resolver%2Fdid%3Aalgo%3Atestnet_uuid%3Ae9832489-e206-4067-8dc6-6d96070484f3)
+
 ## Setup
 
 ### Initial setup
